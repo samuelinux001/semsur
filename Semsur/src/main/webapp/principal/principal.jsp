@@ -7,15 +7,6 @@
 <title>Semsur</title>
 </head>
 <body>
-<h1>Login</h1>
-<form action="ServletLogin" method="post">
-
-<input name="login" type="text"> <br>
-<input name="senha" type="password"> <br>
-
-<input type="submit" value="Enviar">
-
-</form>
-<h4>${msg}</h4>
+<h1>Tela Principal</h1>
 </body>
 </html>
